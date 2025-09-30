@@ -20,10 +20,22 @@ Built with:
 
 ---
 
-## 🖥️ Demo
+## 📦 Installation
 
-> 📸 *Add a screen recording or image demo here*
+### Clone the repo:
 
 ```bash
-# Example placeholder
-![Demo](https://github.com/yourusername/sql-chat-app/assets/demo.gif)
+git clone https://github.com/yourusername/sql-chat-app.git
+cd sql-chat-app
+```
+### Install dependencies:
+```bash
+pip install -r requirements.txt
+```
+
+### Set up your local SQLite database (Optional):
+
+Make sure you have a student.db file in the same directory. You can modify the schema as needed.
+
+
+
