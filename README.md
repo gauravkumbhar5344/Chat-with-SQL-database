@@ -25,7 +25,7 @@ Built with:
 ### Clone the repo:
 
 ```bash
-git clone https://github.com/yourusername/sql-chat-app.git
+git clone https://github.com/gauravkumbhar5344/Chat-with-SQL-database.git
 cd sql-chat-app
 ```
 ### Install dependencies:
@@ -36,6 +36,4 @@ pip install -r requirements.txt
 ### Set up your local SQLite database (Optional):
 
 Make sure you have a student.db file in the same directory. You can modify the schema as needed.
-
-
 
